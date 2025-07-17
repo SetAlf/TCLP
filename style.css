@@ -19,23 +19,26 @@
     margin: 0;
   }
   header {
-    background: darkblue;
+    background: #1f2937;
     height: 300px;
+    padding-top: 10px;
     padding-left: 220px;
     padding-right: 200px;
 
   }
   h2 {
     text-align: left;
-
+    font-weight: 1000;
     color: white;
     line-height: 50px;
     margin: 0;
   }
   a {
-    border: 10px;
-    border-color: black;
-    text-align: center;
+    font-size: 18px;
+    font-weight: 100;
+    padding-left: 18px;
+
+    text-align: right;
     color: white;
   }
   article {
