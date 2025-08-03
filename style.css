@@ -25,13 +25,15 @@
     height: 300px;
     padding-top: 10px;
     padding-top: 10px;
-    padding-left: 220px;
+    padding-left: 215px;
     padding-right: 200px;
+    margin-left: 232.500px;
+    margin-right: 232.500px;
 
   }
   h2 {
     text-align: left;
-    font-size: large;
+    font-size: 22px;
     font-weight: 1000;
     color: white;
     line-height: 50px;
